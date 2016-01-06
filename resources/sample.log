@@ -1,0 +1,31 @@
+commit cd902f2c7ed1b951246f142f5f61138f1a062a1f
+Author: Tony Morris <tmorris@tmorris.net>
+Date:   Mon Dec 14 12:55:00 2015 +1000
+
+    fix typo in comment, issue #170
+
+commit 5f966c6f4852771c8c9356a5e917320268f5456a
+Author: Tony Morris <tmorris@tmorris.net>
+Date:   Wed Nov 18 17:30:33 2015 +1000
+
+    Issue #169 the flip bind exercise
+
+commit 34447ab9493a507df723beb4e8e29e1b3ccdc43c
+Author: Tony Morris <tmorris@tmorris.net>
+Date:   Sun Nov 15 20:37:07 2015 +1000
+
+    fix law on Extent. Thanks @thejohnfreeman PR #168.
+
+commit dfb0316d36c9748683bc02b046ca140c3a71b557
+Merge: 198db61 fa54e30
+Author: Tony Morris <tmorris@tmorris.net>
+Date:   Sun Nov 15 13:58:54 2015 +1000
+
+    Merge branch 'master' of github.com:NICTA/course
+
+commit 198db619f06a54942abcbb5789419fbe7f1c56cf
+Author: Tony Morris <tmorris@tmorris.net>
+Date:   Sun Nov 15 13:50:45 2015 +1000
+
+    fix comment
+
